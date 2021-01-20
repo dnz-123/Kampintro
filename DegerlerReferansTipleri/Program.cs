@@ -15,7 +15,7 @@ namespace DegerlerReferansTipleri
             // sayı1 ??? 30 
 
 
-            int[] sayılar1 = new int
+           
            
 
 
